@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523861846946",
+    "project_id": "rental-app-581bc",
+    "storage_bucket": "rental-app-581bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523861846946:android:6b88a13a5e780e6ac060fb",
+        "android_client_info": {
+          "package_name": "com.example.rentalflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523861846946-tr4pn1b1jd2vca28dfoah28fffd4ug3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJD7obXeDd0WzCe6IyYTNsOS0k2iUABk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523861846946-tr4pn1b1jd2vca28dfoah28fffd4ug3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
